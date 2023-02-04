@@ -1,0 +1,15 @@
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\bin\Debug\net6.0\DANNYBOY.exe
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\bin\Debug\net6.0\DANNYBOY.deps.json
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\bin\Debug\net6.0\DANNYBOY.runtimeconfig.json
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\bin\Debug\net6.0\DANNYBOY.dll
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\bin\Debug\net6.0\DANNYBOY.pdb
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.csproj.AssemblyReference.cache
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.AssemblyInfoInputs.cache
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.AssemblyInfo.cs
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.csproj.CoreCompileInputs.cache
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.dll
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\refint\DANNYBOY.dll
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.pdb
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\DANNYBOY.genruntimeconfig.cache
+C:\Users\orteg\Documents\CSharp Spr 23\DANNYBOY\obj\Debug\net6.0\ref\DANNYBOY.dll
